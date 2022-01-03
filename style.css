@@ -31,7 +31,7 @@ section {
   text-decoration: none;
   background-image: linear-gradient(rgb(1, 204, 208), rgb(104, 13, 227));
   color: rgb(255, 255, 255);
-  font-weight: 700;
+  font-weight: 600;
   padding: 10px 40px;
   border-radius: 5px;
 }
