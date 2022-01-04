@@ -75,5 +75,24 @@ p {
   box-shadow: 5px 5px 40px rgb(0, 102, 255);
   padding: 20px;
   border-radius: 10px;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.938);
+}
+
+#dev-block {
+  border-left: 7px solid;
+  border-image: linear-gradient(blue, purple);
+  border-image-slice: 1;
+  border-radius: 10px;
+}
+
+#newbee-block {
+  border-left: 7px solid;
+  border-image: linear-gradient(yellow, orange);
+  border-image-slice: 1;
+  border-radius: 10px;
+}
+
+footer p {
+  text-align: center;
+  color: rgb(54, 54, 124);
 }
